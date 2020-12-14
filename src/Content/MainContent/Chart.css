@@ -1,0 +1,11 @@
+.artistName {
+    font-weight: bold;
+}
+
+.trackName, .artistLink, .artistName {
+    font-size: 1vw;
+}
+
+a:-webkit-any-link {
+    text-decoration-line: none;
+}
